@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:cred_abstraction_layer//model/model.dart'; // Assuming this is where your ItemData model is
+import 'package:cred_abstraction_layer/model/model.dart'; // Assuming this is where your ItemData model is
 
 class EmiSelection extends StatefulWidget {
   final List<ItemData> items;
