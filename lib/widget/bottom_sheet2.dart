@@ -1,4 +1,4 @@
-import 'package:cred_assignment/model/model.dart';
+import 'package:cred_abstraction_layer/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'custom_button.dart';

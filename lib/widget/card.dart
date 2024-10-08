@@ -1,4 +1,4 @@
-import 'package:cred_assignment/widget/slider/circular_slider.dart';
+import 'package:cred_abstraction_layer/widget/slider/circular_slider.dart';
 import 'package:flutter/material.dart';
 
 class Card_Sheet extends StatefulWidget {

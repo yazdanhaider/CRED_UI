@@ -1,6 +1,6 @@
-import 'package:cred_assignment/model/model.dart';
-import 'package:cred_assignment/widget/bottom_sheet2.dart';
-import 'package:cred_assignment/widget/emi_selectno.dart';
+import 'package:cred_abstraction_layer/model/model.dart';
+import 'package:cred_abstraction_layer/widget/bottom_sheet2.dart';
+import 'package:cred_abstraction_layer/widget/emi_selectno.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

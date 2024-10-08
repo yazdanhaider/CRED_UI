@@ -1,4 +1,4 @@
-import 'package:cred_assignment/screen/base_screen.dart';
+import 'package:cred_abstraction_layer/screen/base_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

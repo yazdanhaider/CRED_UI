@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:cred_assignment/widget/collapsed_widget.dart';
+import 'package:cred_abstraction_layer/widget/collapsed_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -10,7 +10,7 @@ import '../riverpod/data_provider.dart';
 import '../widget/bottom_sheet1.dart';
 import '../widget/bottom_sheet2.dart';
 import '../widget/custom_button.dart';
-import 'package:cred_assignment/model/model.dart';
+import 'package:cred_abstraction_layer/model/model.dart';
 
 
 class BaseScreen extends ConsumerStatefulWidget {
