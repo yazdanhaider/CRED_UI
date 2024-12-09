@@ -1,17 +1,4 @@
-# cred_abstraction_layer
-
-## Setting Up the Development Environment
-
-To set up your development environment for Zwiggy:
-
-1. Fork the repository on GitHub.
-2. Clone your forked repository to your local machine.
-3. Install Flutter by following the [official installation guide](https://flutter.dev/docs/get-started/install).
-4. Install dependencies by running `flutter pub get` in the project root directory.
-    - Add an Android and iOS app to your Firebase project and follow the setup instructions.
-    - Download the `google-services.json` (for Android) and `GoogleService-Info.plist` (for iOS) files and place them in the appropriate directories in your project.
-5. Run the app using `flutter run`.
-
+# cred_flutter_assignment_abstraction_layer
 
 ## Technology Stack
 
